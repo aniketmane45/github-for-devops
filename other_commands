@@ -1,0 +1,14 @@
+6 git add .\git_commands
+  28        0.253 git status
+  29        0.210 git commit -m "added commands"
+  30        0.120 git status
+  31        0.201 git remote add origin https://github.com/aniketmane45/github-for-devops.git
+  32        0.145 git remote -v
+  33        1.196 git push origin master
+  34        0.148 git remote -v
+  35        0.183 git remote set-url origin https:/@github.com/aniketmane45/github-for-devops.git
+  36        0.117 git remote -v
+  37        0.814 git push origin master
+  38        0.466 git branch
+  39        0.337 git push origin your-branch-name
+  40        2.709 git push origin main
